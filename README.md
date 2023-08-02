@@ -1,3 +1,3 @@
 ## todolist-basic-java
 
-Aplication To-do-list Simple Non OOP 
+Aplication To-do-list Simple Without OOP 
